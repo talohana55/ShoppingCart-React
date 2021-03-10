@@ -1,3 +1,7 @@
+##Description
+A project that simulates buying products and creating a personal shopping cart.
+Main use by fetching data from Database
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
