@@ -1,6 +1,14 @@
-## Description
+## Description & Review
 A project that simulates buying products and creating a personal shopping cart.
 Main use by fetching data from Database
+
+![צילום מסך 2021-03-10 182351](https://user-images.githubusercontent.com/68163421/110662345-1590f680-81ce-11eb-946a-d8cfb05418b4.png)
+
+![צילום מסך 2021-03-10 182420](https://user-images.githubusercontent.com/68163421/110662368-1aee4100-81ce-11eb-8773-38c7b3dc98d1.png)
+
+
+![צילום מסך 2021-03-10 182502](https://user-images.githubusercontent.com/68163421/110662380-1cb80480-81ce-11eb-8dda-dbe23189eddc.png)
+
 
 # Getting Started with Create React App
 
