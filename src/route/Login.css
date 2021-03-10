@@ -1,0 +1,31 @@
+.login-form {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 5rem;
+}
+.login-form form{
+    text-align: center;
+    padding-top: 2rem;
+}
+.login-form form input{
+    max-width: 80%;
+    margin: 1rem auto;
+    display: block;
+    border-radius: 12px;
+    outline: none;
+    padding:5px 10px;
+        border: 1.5px solid #fdb827;
+
+}
+
+.login-form form button{
+     background-color: #23120b;
+    color: #f1f1f1;
+    border: 1.5px solid #fdb827;
+    border-radius: 12px;
+    padding: 5px 1rem;
+    font-weight: 700;
+    margin: 0 10px;
+    outline: none;
+}
