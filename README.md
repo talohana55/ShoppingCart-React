@@ -1,4 +1,4 @@
-##Description
+## Description
 A project that simulates buying products and creating a personal shopping cart.
 Main use by fetching data from Database
 
